@@ -1,3 +1,3 @@
 # neopixelmatrix_weathermap
 
-<img src="neopixel.jpg" alt="pic" width="250"/>
+<img src="neopixel.jpg" alt="pic" width="700"/>
