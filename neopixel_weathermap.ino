@@ -12,8 +12,8 @@
 #define LED_PIN 18
 #define LED_COUNT 64
 
-const char* ssid = "Duhaso2.4G";
-const char* password = "2.4_Rotselaar&DHS";
+const char* ssid = "";
+const char* password = "";
 const char* OPENWEATHERMAP_API_KEY = "a3cc6725e576479ce11822a5242604e9";
 const char* OPENWEATHERMAP_LOCATION_ID = "2787663";
 
